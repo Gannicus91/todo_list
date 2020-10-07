@@ -1,0 +1,7 @@
+node_modules
+/.vscode
+/.git
+/.idea
+/vue.config.js
+/webpack.parts.js
+dist
